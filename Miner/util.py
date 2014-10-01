@@ -19,10 +19,14 @@ url_in_text_regex = re.compile(
         r'(?::\d+)?'  # optional port
         r'(?:/?|[/?]\S+)', re.IGNORECASE)
 
+link_regex = re.compile(r'(href|src)=[\'"]([^\'"]+)[\'"]', re.IGNORECASE)
+
 
 def valid_url(text):
     return regex.match(text)
 
 
 def pull_out_all_links(text):
-    return url_in_text_regex.findall(text)
+    matches = link_regex.findall(text)
+    return [match[1] for match in matches]
+    # return url_in_text_regex.findall(text)

@@ -55,3 +55,7 @@ target/
 
 # idea
 .idea/
+
+# apple
+.DS_Store
+Miner/result.md

@@ -2,7 +2,13 @@
 
 爬取网站内所有链接，输出 markdown 文件。
 
-##使用
+##Get start
+
+###Install
+
+    pip install SiteMiner
+
+###Useage
 
     import Miner
 

@@ -60,7 +60,7 @@ class Miner:
             if not self._ignore(url):
                 all_links = util.pull_out_all_links(response.read())
                 for link in all_links:
-                    link = urlparse.urljoin(url, link)
+                    link = util.urljoin(url, link)
                     self._add_link_parent(link, url)
                     if self._is_current_site(link) and link not in self._resolved:
                         self._tasks.add(link)
@@ -107,6 +107,6 @@ class Miner:
 
 
 if __name__ == "__main__":
-    miner = Miner("http://mockplus.cn")
+    miner = Miner("http://ireadhome.com")
     miner.run()
     print "all done"

@@ -2,6 +2,7 @@
 __author__ = 'massimo'
 
 import re
+import urlparse
 
 regex = re.compile(
         r'^(?:http|ftp)s?://'  # http:// or https://
@@ -30,3 +31,9 @@ def pull_out_all_links(text):
     matches = link_regex.findall(text)
     return [match[1] for match in matches]
     # return url_in_text_regex.findall(text)
+
+
+def urljoin(base, url):
+    path = urlparse.urljoin(base, url)
+    path = path.replace("../", "")
+    return path

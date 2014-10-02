@@ -8,6 +8,7 @@ import thread
 import sys
 import time
 import urlparse
+import os
 
 
 class Miner:
@@ -34,7 +35,7 @@ class Miner:
     def _status(self):
         while True:
             print '-' * 50
-            for k, v in sorted(self.result.items()):
+            for k, v in sorted(self.result.items(), reverse=True):
                 print k, len(v)
             print '-' * 50
             time.sleep(5)
@@ -45,7 +46,7 @@ class Miner:
                 f.write("###%d(%d)\n\n" % (k, len(v)))
                 for link in v:
                     f.write("+ %s \n" % (link,))
-                    if self._all.has_key(link):
+                    if link in self._all:
                         for _parent in self._all.get(link):
                             f.write("    * %s\n" % (_parent,))
                 f.write("\n")
@@ -56,12 +57,13 @@ class Miner:
             response = urllib2.urlopen(url)
             code = response.getcode()
 
-            all_links = util.pull_out_all_links(response.read())
-            for link in all_links:
-                link = urlparse.urljoin(url, link)
-                self._add_link_parent(link, url)
-                if self._is_current_site(link) and link not in self._resolved:
-                    self._tasks.add(link)
+            if not self._ignore(url):
+                all_links = util.pull_out_all_links(response.read())
+                for link in all_links:
+                    link = urlparse.urljoin(url, link)
+                    self._add_link_parent(link, url)
+                    if self._is_current_site(link) and link not in self._resolved:
+                        self._tasks.add(link)
 
             response.close()
         except urllib2.URLError, e:
@@ -81,7 +83,8 @@ class Miner:
         url = res[0]
         code = res[1]
         if code in self.result:
-            self.result[code].append(url)
+            if url not in self.result[code]:
+                self.result[code].append(url)
         else:
             self.result[code] = [url]
 
@@ -89,9 +92,16 @@ class Miner:
         o = urlparse.urlparse(url)
         return o.netloc == self.netloc
 
+    @staticmethod
+    def _ignore(url):
+        o = urlparse.urlparse(url)
+        ext = os.path.splitext(o.path)[1]
+        return ext in ['.js', '.css', '.json']
+
     def _add_link_parent(self, url, parent):
-        if self._all.has_key(url):
-            self._all.get(url).append(parent)
+        if url in self._all:
+            if parent not in self._all.get(url):
+                self._all.get(url).append(parent)
         else:
             self._all[url] = [parent]
 

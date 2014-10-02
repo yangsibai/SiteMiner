@@ -10,9 +10,9 @@
 
 ###Useage
 
-    import Miner
+    from SiteMiner import Miner
 
-    miner = Miner("http://sibo.me")
+    miner = Miner.Miner("http://sibo.me")
     miner.run()
     print "done!"
 

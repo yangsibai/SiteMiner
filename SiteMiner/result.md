@@ -1,0 +1,293 @@
+###200(46)
+
++ http://ireadhome.com 
++ http://ireadhome.com/ 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Scripts/jquery-1.7.1.min.js 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Download/Tools 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/iRead
++ http://ireadhome.com/favicon.ico 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Download 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Content/Images/Home/Windows_download.png 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/iRead
++ http://ireadhome.com/Content/Images/DownLoad/iread.png 
+    * http://ireadhome.com/Download
++ http://ireadhome.com/Scripts/iread.js 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/About/JoinUs 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/About/Culture 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Content/css/page.css 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/User/Note 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Scripts/apprise-v2.js 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Content/Images/Logo/air_128.jpg 
+    * http://ireadhome.com/Download/Tools
++ http://ireadhome.com/User/Register 
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Login
++ http://ireadhome.com/User/ForgetPassword 
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Login
++ http://ireadhome.com/About/Policy 
+    * http://ireadhome.com/User/Register
++ http://ireadhome.com/Content/Images/Home/Android_download.png 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/iRead
++ http://ireadhome.com/Content/css/iNote/login.css?101 
+    * http://ireadhome.com/User/ForgetPassword
++ http://ireadhome.com/Download/iReadAndroid 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/Download/iRead
++ http://ireadhome.com/Scripts/plugin.min.js?151 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Content/Images/DownLoad/cloud.png 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Content/Images/Index/bannerC.png 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/iRead
++ http://ireadhome.com/User/Login 
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
++ http://ireadhome.com/Content/Images/Home/iread_read.png 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Help/OnlineHelp 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Content/Images/DownLoad/cloud.jpg 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Content/Images/Logo/any2ib3/1.png 
+    * http://ireadhome.com/Download/Tools
++ http://ireadhome.com/Content/Images/Logo/exebook.png 
+    * http://ireadhome.com/Download/Tools
++ http://ireadhome.com/Download/iRead 
+    * http://ireadhome.com/Download
++ http://ireadhome.com/Content/Images/DownLoad/newexperience1.jpg 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/User/GetValidateCode?rnd=944 
+    * http://ireadhome.com/User/ForgetPassword
++ http://ireadhome.com/Help/Updatelog 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/iRead
++ http://ireadhome.com/Content/Images/DownLoad/imgshare.jpg 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Scripts/public.min.js?160 
+    * http://ireadhome.com
+    * http://ireadhome.com/
+    * http://ireadhome.com/Download/Tools
+    * http://ireadhome.com/Download
+    * http://ireadhome.com/About/JoinUs
+    * http://ireadhome.com/About/Culture
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/About/Policy
+    * http://ireadhome.com/Download/iReadAndroid
+    * http://ireadhome.com/User/Login
+    * http://ireadhome.com/Help/OnlineHelp
+    * http://ireadhome.com/Download/iRead
+    * http://ireadhome.com/Help/Updatelog
++ http://ireadhome.com/Content/Images/DownLoad/newexperience.png 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Content/Images/DownLoad/iread-1.png 
+    * http://ireadhome.com/Download
++ http://ireadhome.com/Content/Images/Home/background.jpg?123 
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Login
++ http://ireadhome.com/Content/Images/DownLoad/elegantstyle1.jpg 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Content/Images/DownLoad/iphonepng.png 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Content/Images/DownLoad/imgshare.png 
+    * http://ireadhome.com/Download/iReadAndroid
++ http://ireadhome.com/Scripts/Placeholder.js 
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/User/Login
++ http://ireadhome.com/Content/Images/Home/bg.png 
+    * http://ireadhome.com/User/Note
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
+    * http://ireadhome.com/User/Login
++ http://ireadhome.com/Content/Images/Home/background.jpg?111 
+    * http://ireadhome.com/User/Register
+    * http://ireadhome.com/User/ForgetPassword
++ http://ireadhome.com/Content/Images/DownLoad/elegantstyle.png 
+    * http://ireadhome.com/Download/iReadAndroid
+

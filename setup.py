@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name = "SiteMiner",
-    version = "0.1.5",
+    version = "0.1.6",
     author = "massimo",
     author_email = "yangsibai@gmail.com",
     description = "crawl a site and find out all link http status code",

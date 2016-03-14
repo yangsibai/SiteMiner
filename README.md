@@ -12,7 +12,7 @@
 
     from SiteMiner import Miner
 
-    miner = Miner.Miner("http://sibo.me")
+    miner = Miner.Miner("http://sibo.me", "save_to.md")
     miner.run()
     print "done!"
 

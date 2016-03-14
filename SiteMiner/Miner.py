@@ -107,6 +107,9 @@ class Miner:
 
 
 if __name__ == "__main__":
-    miner = Miner("http://ireadhome.com")
-    miner.run()
-    print "all done"
+    if len(sys.argv) == 2:
+        miner = Miner(sys.argv[1])
+        miner.run()
+        print "all done"
+    else:
+        print "usage: python Miner.py http://www.example.com"

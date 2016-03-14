@@ -12,7 +12,7 @@ import os
 
 
 class Miner:
-    def __init__(self, url):
+    def __init__(self, url, saveto):
         self._start = url
         self.netloc = urlparse.urlparse(url).netloc
         self._tasks = set()
@@ -20,6 +20,7 @@ class Miner:
         self._resolved = set()
         self._all = {}
         self.result = {}
+        self.saveto = saveto
 
     def run(self):
         thread.start_new_thread(self._status, ())
@@ -41,7 +42,7 @@ class Miner:
             time.sleep(5)
 
     def _output(self):
-        with open("result.md", 'w') as f:
+        with open(self.saveto, 'w') as f:
             for k, v in sorted(self.result.items()):
                 f.write("###%d(%d)\n\n" % (k, len(v)))
                 for link in v:
@@ -107,9 +108,18 @@ class Miner:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        miner = Miner(sys.argv[1])
-        miner.run()
-        print "all done"
+    if len(sys.argv) >= 2:
+        u = sys.argv[1]
+        r = urlparse.urlparse(u)
+        if not r.scheme or not r.netloc:
+            print 'invalid url, usage: python Miner.py http://www.example.com'
+        else:
+            if len(sys.argv) == 3:
+                saveto = sys.argv[2]
+            else:
+                saveto = r.netloc + '.md'
+            miner = Miner(u, saveto)
+            miner.run()
+            print "all done"
     else:
         print "usage: python Miner.py http://www.example.com"

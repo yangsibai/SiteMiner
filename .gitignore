@@ -58,4 +58,4 @@ target/
 
 # apple
 .DS_Store
-Miner/result.md
+SiteMiner/*.md
